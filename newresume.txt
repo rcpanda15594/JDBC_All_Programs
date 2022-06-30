@@ -1,0 +1,3 @@
+name=karan
+addrs=hyd
+age= not to be releaved , (age is a number for me, i am always young)
